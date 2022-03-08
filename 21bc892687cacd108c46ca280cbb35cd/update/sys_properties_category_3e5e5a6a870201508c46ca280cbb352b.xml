@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category">
+    <sys_properties_category action="INSERT_OR_UPDATE">
+        <name>Critical task properties</name>
+        <sys_class_name>sys_properties_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-08 11:47:14</sys_created_on>
+        <sys_id>3e5e5a6a870201508c46ca280cbb352b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Critical task properties</sys_name>
+        <sys_package display_value="Critical Tasks" source="21bc892687cacd108c46ca280cbb35cd">21bc892687cacd108c46ca280cbb35cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Critical Tasks">21bc892687cacd108c46ca280cbb35cd</sys_scope>
+        <sys_update_name>sys_properties_category_3e5e5a6a870201508c46ca280cbb352b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-08 11:47:14</sys_updated_on>
+        <title><![CDATA[<p><em><span style="font-size: 12pt;"><strong>Property configuration for critical task application</strong></span></em></p>]]></title>
+    </sys_properties_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=3e5e5a6a870201508c46ca280cbb352b"/>
+</record_update>

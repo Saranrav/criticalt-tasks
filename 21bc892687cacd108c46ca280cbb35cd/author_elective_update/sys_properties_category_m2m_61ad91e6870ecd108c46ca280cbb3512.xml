@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category_m2m">
+    <sys_properties_category_m2m action="DELETE">
+        <category display_value="Incident Management">5c7ec54d0b363200ecfd818393673ac8</category>
+        <order>200</order>
+        <property display_value="assignment.group.priority.critical" name="assignment.group.priority.critical">438ad126870ecd108c46ca280cbb35e4</property>
+        <sys_class_name>sys_properties_category_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-08 07:02:36</sys_created_on>
+        <sys_id>61ad91e6870ecd108c46ca280cbb3512</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>assignment.group.priority.critical.Incident Management</sys_name>
+        <sys_package display_value="Critical Tasks" source="21bc892687cacd108c46ca280cbb35cd">21bc892687cacd108c46ca280cbb35cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Critical Tasks">21bc892687cacd108c46ca280cbb35cd</sys_scope>
+        <sys_update_name>sys_properties_category_m2m_61ad91e6870ecd108c46ca280cbb3512</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-08 07:02:36</sys_updated_on>
+    </sys_properties_category_m2m>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Critical Tasks">21bc892687cacd108c46ca280cbb35cd</application>
+        <file_path/>
+        <instance_id>6e08e885dbbc9bc48264f70fbf9619de</instance_id>
+        <instance_name>dev52281</instance_name>
+        <name>sys_properties_category_m2m_61ad91e6870ecd108c46ca280cbb3512</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category_m2m"><sys_properties_category_m2m action="INSERT_OR_UPDATE"><category display_value="Incident Management">5c7ec54d0b363200ecfd818393673ac8</category><order>200</order><property display_value="assignment.group.priority.critical" name="assignment.group.priority.critical">438ad126870ecd108c46ca280cbb35e4</property><sys_class_name>sys_properties_category_m2m</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-03-08 07:02:36</sys_created_on><sys_id>61ad91e6870ecd108c46ca280cbb3512</sys_id><sys_mod_count>0</sys_mod_count><sys_name>assignment.group.priority.critical.Incident Management</sys_name><sys_package display_value="Critical Tasks" source="21bc892687cacd108c46ca280cbb35cd">21bc892687cacd108c46ca280cbb35cd</sys_package><sys_policy/><sys_scope display_value="Critical Tasks">21bc892687cacd108c46ca280cbb35cd</sys_scope><sys_update_name>sys_properties_category_m2m_61ad91e6870ecd108c46ca280cbb3512</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-03-08 07:02:36</sys_updated_on></sys_properties_category_m2m></record_update>]]></payload>
+        <payload_hash>-259625711</payload_hash>
+        <record_name>assignment.group.priority.critical.Incident Management</record_name>
+        <reverted_from/>
+        <source>843855ee87cacd108c46ca280cbb35a5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-08 07:02:36</sys_created_on>
+        <sys_id>edad95e6870ecd108c46ca280cbb35a4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17f68563d9e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-08 07:02:36</sys_updated_on>
+        <type>Category Property</type>
+        <update_guid>a5ad91e6410ecd10f8d6fce313dddf13</update_guid>
+        <update_guid_history>a5ad91e6410ecd10f8d6fce313dddf13:-259625711</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-08 11:44:32</sys_created_on>
+        <sys_db_object display_value="" name="sys_properties_category_m2m">sys_properties_category_m2m</sys_db_object>
+        <sys_id>58a2d788e6a24794a7d214cbeae63f69</sys_id>
+        <sys_metadata>61ad91e6870ecd108c46ca280cbb3512</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>assignment.group.priority.critical.Incident Management</sys_name>
+        <sys_package display_value="Critical Tasks" source="21bc892687cacd108c46ca280cbb35cd">21bc892687cacd108c46ca280cbb35cd</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Critical Tasks">21bc892687cacd108c46ca280cbb35cd</sys_scope>
+        <sys_scope_delete display_value="">0e62ff1b90d64079ba233c84a5a21039</sys_scope_delete>
+        <sys_update_name>sys_properties_category_m2m_61ad91e6870ecd108c46ca280cbb3512</sys_update_name>
+        <sys_update_version display_value="sys_properties_category_m2m_61ad91e6870ecd108c46ca280cbb3512">edad95e6870ecd108c46ca280cbb35a4</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-08 11:44:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
